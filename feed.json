@@ -1,0 +1,73 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Males Mikir",
+    "description": "",
+    "home_page_url": "https://wahidemalution.github.io",
+    "feed_url": "https://wahidemalution.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mas Wahhh"
+    },
+    "items": [
+        {
+            "id": "https://wahidemalution.github.io/install-plesk-panel-di-centos-7-dalam-sekali-enter/",
+            "url": "https://wahidemalution.github.io/install-plesk-panel-di-centos-7-dalam-sekali-enter/",
+            "title": "Install Plesk panel di Centos 7 dalam &quot;Sekali enter&quot;",
+            "summary": "Plesk is a commercial web hosting platform with a control panel that allows a server administrator to set up new websites, reseller accounts, e-mail accounts and DNS entries through a web-based interface. “Wikipedia” yak, Kurang lebih seperti itu penjelasannya. Terima kasih wikipedia atas penjelasannya. Masih nda&hellip;",
+            "content_html": "<p><strong>Plesk</strong> is a commercial web hosting platform with a control panel that allows a server administrator to set up new websites, reseller accounts, e-mail accounts and DNS entries through a web-based interface.<br><strong><em>“Wikipedia”</em></strong></p>\n<p>yak, Kurang lebih seperti itu penjelasannya. Terima kasih wikipedia atas penjelasannya.</p>\n<p>Masih nda paham? Simplenya gini<strong><em>, plesk adalah perangkat lunak yang digunakan untuk melakukan pengaturan pada web hosting, seperti melakukan pengaturan DNS, upload file-file website yang nantinya akan ditampilkan, dan masih banyak lagi.</em></strong></p>\n<p>yaa, kurang lebih seperti itu. Kalau masih kurang jelas jangan panik.</p>\n<h2 id=\"google-diciptakan-untuk-mempermudah-pekerjaan-kalian\">Google diciptakan untuk mempermudah pekerjaan kalian.</h2>\n<p>Udah banyak banget penyedia hosting dari indonesia yang menawarkan paket hosting menggunakan Plesk. Banyak! tinggal pilih sesuai kekuatan masing-masing.</p>\n<p>Tapi kalau punya vps dan atau sekedar mau coba-coba aja bisa kok. Bisa dapat trial 15 Hari coba Plesk Onyx yang langsung disediakan sama plesk nya. Kalau cara installnya udah dijelasin lengkap di link ini</p>\n<p><a href=\"https://docs.plesk.com/en-US/onyx/deployment-guide/plesk-installation-and-upgrade-on-single-server/1click-plesk-installation/installing-plesk-for-linux-in-one-click.76444/\" title=\"https://docs.plesk.com/en-US/onyx/deployment-guide/plesk-installation-and-upgrade-on-single-server/1click-plesk-installation/installing-plesk-for-linux-in-one-click.76444/\">https://docs.plesk.com/en-US/onyx/deployment-guide/plesk-installation-and-upgrade-on-single-server/1click-plesk-installation/installing-plesk-for-linux-in-one-click.76444/</a></p>\n<p>Cari yang paling simple buat install nya, paste, tunggu selesai. Iya diatas itu dokumen atau panduan yang disediain sama plesk nya buat install plesk 1 click. Yaa kalau nda terima 1 click bisa sebut 1 enter lah.</p>\n<p>Beneran 1 enter kok, coba login dulu ke VPS. Pastiin akses root ya, terus paste perintah,</p>\n<pre><code># sh &lt;(curl https://autoinstall.plesk.com/one-click-installer || wget -O - <a href=\"https://autoinstall.plesk.com/one-click-installer)\">https://autoinstall.plesk.com/one-click-installer)</a></code></pre>\n<p>bis itu <strong>“Enter”</strong> dengan penuh kasih sayang please.</p>\n<p>Tungguin sampai selesai deh.</p>\n<p>Simple, nda perlu banyak mikir command mana dulu yang mau di ketik. Mikirnya nanti kalau udah keinstall, mau buat apa, mau diapain, dan kalau ada kendala juga.<br><img class=\"post__image--center\" src=\"https://wahidemalution.github.io/media/posts/4/install-plesk-centos.png\" alt=\"Install plesk centos 7\" width=\"1100\" height=\"505\"></p>",
+            "image": "https://wahidemalution.github.io/media/posts/4/install-Plesk.png",
+            "author": {
+                "name": "Mas Wahhh"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-13T21:14:13+07:00",
+            "date_modified": "2019-07-13T23:25:33+07:00"
+        },
+        {
+            "id": "https://wahidemalution.github.io/mengambil-file-website-pada-full-backup-cpanel/",
+            "url": "https://wahidemalution.github.io/mengambil-file-website-pada-full-backup-cpanel/",
+            "title": "Mengambil file website pada full backup cPanel",
+            "summary": "Butuh file-file website dari hosting expired, tapi cuma punya file full backup cpanel nya? Bingung gimana caranya? nah ikutin tutor inipanduan ini dibuat dalam keadaan mager semager magernya, jadi kalau nda jelas boleh berfikir dahulu dan googling, makasih Sebenernya post ini ditujukan untuk kalian yang&hellip;",
+            "content_html": "<h2 id=\"butuh-file-file-website-dari-hosting-expired-tapi-cuma-punya-file-full-backup-cpanel-nya-bingung-gimana-caranya-nah-ikutin-tutor-ini\">Butuh file-file website dari hosting expired, tapi cuma punya file full backup cpanel nya? Bingung gimana caranya? nah ikutin tutor ini</h2>\n<p><em>panduan ini dibuat dalam keadaan mager semager magernya, jadi kalau nda jelas boleh berfikir dahulu dan googling, makasih</em></p>\n<p>Sebenernya post ini ditujukan untuk kalian yang ada kendala “punya file full backup cpanel, tapi cuma mau ambil file websitenya aja”. Paham lah ya, yaudah paham pokoknya.</p>\n<p>Biasanya kalau kalian minta full backup dari penyedia, atau kalian mandiri generate sendiri hasilnya file ekstensi .tar.gz kaya gini</p>",
+            "image": "https://wahidemalution.github.io/media/posts/3/Backup.png",
+            "author": {
+                "name": "Mas Wahhh"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-13T21:13:20+07:00",
+            "date_modified": "2019-07-13T21:41:32+07:00"
+        },
+        {
+            "id": "https://wahidemalution.github.io/mengatasi-blogger-unexpectedly-closed-the-connection/",
+            "url": "https://wahidemalution.github.io/mengatasi-blogger-unexpectedly-closed-the-connection/",
+            "title": "Mengatasi blogger &quot;unexpectedly closed the connection&quot;",
+            "summary": "Abis custom domain (bahasa enaknya ubah dari nama.blogspot.com ke nama.com) Website nda bisa diakses? dan tampilannya kayak gambar dibawah? Setelah custom domain blogger biasanya tanya kalau website nda bisa diakses, tampilannya kayak gambar diatas (scroll keatas please). dipanduan ini tak kasih tau cara GG buat ngatasin masalah itu. Dari gambar&hellip;",
+            "content_html": "<h2 id=\"mcetoc_1dfm162cn0\">Abis custom domain (bahasa enaknya ubah dari <a class=\"vglnk\" href=\"http://nama.blogspot.com/\" rel=\"nofollow\">nama.blogspot.com</a> ke <a class=\"vglnk\" href=\"http://nama.com/\" rel=\"nofollow\">nama.com</a>) Website nda bisa diakses? dan tampilannya kayak gambar dibawah?<br><img class=\"post__image--center\" src=\"https://wahidemalution.github.io/media/posts/2/proses-https-blog.png\" alt=\"unexpectedly colosed the connection blogspot\" width=\"1493\" height=\"780\"></h2>\n<p>Setelah custom domain blogger biasanya tanya kalau website nda bisa diakses, tampilannya kayak gambar diatas (scroll keatas please). dipanduan ini tak kasih tau cara <strong>GG</strong> buat ngatasin masalah itu.</p>\n<ol>\n<li>Login dulu ke Blogger, dan liat seperti gambar dibawah</li>\n</ol>\n<img class=\"post__image--center\" src=\"https://wahidemalution.github.io/media/posts/2/error-blogspot.png\" alt=\"Mengatasi blogger &quot;unexpectedly closed the connection&quot;\" width=\"1328\" height=\"578\">\n<p>Dari gambar diatas, ada tulisan yang udah ku tandai / kotakin merah tulisannya adalah</p>\n<p><em>HTTPS availability is being processed. Check back later.</em></p>\n<p>dan</p>\n<p><em>This setting is unavailable while HTTPS availibility is processing check back later.</em></p>\n<p>Dari notifikasi diatas, kalau diartiin bahasa indonesia</p>\n<h1 id=\"ketersediaan-https-sedang-dalam-proses-silahkan-periksa-lain-kali\">Ketersediaan HTTPS sedang dalam proses, silahkan periksa lain kali</h1>\n<p>dan juga</p>\n<h1 id=\"pengaturan-ini-masih-tidak-tersedia-ketika-ketersediaan-https-masih-dalam-proses-silahkan-periksa-lain-kali\">Pengaturan ini masih tidak tersedia ketika ketersediaan HTTPS masih dalam proses, silahkan periksa lain kali</h1>\n<p>ya, kurang lebih gitu lah artinya.</p>\n<h2 id=\"cara-mengatasinya\">Cara mengatasinya</h2>\n<h1 id=\"silahkan-ditunggu-aja-15-30-menit-kedepan-sampai-https-tersedia\">Silahkan ditunggu aja 15-30 menit kedepan, sampai https tersedia</h1>\n<p>nanti kalau udah selesai, bisa diakses deh.</p>\n<img class=\"post__image--center\" src=\"https://wahidemalution.github.io/media/posts/2/error-blogspot-2.png\" alt=\"Mengatasi blogger &quot;unexpectedly closed the connection&quot;\" width=\"1739\" height=\"543\"><br><br>\n<p> </p>",
+            "image": "https://wahidemalution.github.io/media/posts/2/Blogger.png",
+            "author": {
+                "name": "Mas Wahhh"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-13T21:12:16+07:00",
+            "date_modified": "2019-07-13T23:05:41+07:00"
+        },
+        {
+            "id": "https://wahidemalution.github.io/cara-redirect-cloudflare-ke-https/",
+            "url": "https://wahidemalution.github.io/cara-redirect-cloudflare-ke-https/",
+            "title": "Cara redirect cloudflare ke https",
+            "summary": "Udah pake cloudflare tapi kok masih belum https? nda aman? ini biar kalian pengguna cloudflare dapat ssl, dan website awto aman / langsung ngarah ke Https, biar nda berisik. Login ke cloudflare, nda punya? buat dulu Silahkan login dulu ke link sini cloudflare Masuk ke&hellip;",
+            "content_html": "<p><em>Udah pake cloudflare tapi kok masih belum https? nda aman?</em></p>\n<p>ini biar kalian pengguna cloudflare dapat ssl, dan website awto aman / langsung ngarah ke Https, biar nda berisik.</p>\n<ul>\n<li>\n<p>Login ke cloudflare, nda punya? buat dulu Silahkan login dulu ke link sini <a href=\"https://cloudflare.com\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Cloudflare\">cloudflare</a></p>\n</li>\n<li>\n<p>Masuk ke menu <strong>Page rules</strong> kaya gambar dibawah <br><img class=\"post__image\" src=\"https://wahidemalution.github.io/media/posts/1/Page-rules.png\" alt=\"Force https cloudflare\" width=\"1509\" height=\"270\"></p>\n</li>\n<li>\n<p>Buat <strong>Page rules</strong></p>\n</li>\n</ul>\n<ul>\n<li>klik <strong>create page rules</strong> kaya gambar dibawah,<br><img class=\"post__image--center\" src=\"https://wahidemalution.github.io/media/posts/1/create-rule-cloudflare.png\" alt=\"membuat rule cloudflare\" width=\"902\" height=\"324\"></li>\n<li>Masih buat <strong>page rules<br></strong></li>\n</ul>\n<p>Nanti setelah klik <strong>create page rules</strong> isi kayak gambar dibawah,<br><img class=\"post__image--center\" src=\"https://wahidemalution.github.io/media/posts/1/create-rule-cloudflare2png\" alt=\"membuat rule cloudflare\" width=\"1000\" height=\"785\"></p>\n<p><em>penjelasan</em></p>\n<p>Isi url sama <em><a class=\"vglnk\" href=\"http://%2Anamadomain/*\" rel=\"nofollow\">http://*namadomain/*</a></em> domain mana aja yang didirect mau didirect ke https, pakai <em>wildcard</em> atau tanda * buat identifikasi keseluruhan link ngarah ke HTTPS</p>\n<p>Tambah <em>Always Use HTTPS</em> Biar ketika website diakses langsung ngarah / di redirect ke https</p>\n<ul>\n<li>Setelah dibuat</li>\n</ul>\n<p>nanti abis dibuat jadinya kayak gambar gini, <br><img class=\"post__image--center\" src=\"https://wahidemalution.github.io/media/posts/1/done-create-rule.png\" alt=\"selesai membuat rule cloudflare\" width=\"1206\" height=\"225\"></p>\n<h1 id=\"silahkan-akses-kalau-masih-nda-bisa-clear-cache-browser-dulu-atau-coba-akses-pakai-browser-lain\">Silahkan akses, kalau masih nda bisa clear cache browser dulu atau coba akses pakai browser lain </h1>",
+            "image": "https://wahidemalution.github.io/media/posts/1/Cloudflare.png",
+            "author": {
+                "name": "Mas Wahhh"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-13T21:07:52+07:00",
+            "date_modified": "2019-07-13T23:02:09+07:00"
+        }
+    ]
+}

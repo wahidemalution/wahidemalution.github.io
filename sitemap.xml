@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://wahidemalution.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://wahidemalution.github.io/</loc>
+</url>
+<url>
+<loc>https://wahidemalution.github.io/about/</loc>
+<lastmod>2019-07-14T20:06:29+07:00</lastmod>
+</url>
+<url>
+<loc>https://wahidemalution.github.io/cara-redirect-cloudflare-ke-https/</loc>
+<lastmod>2019-07-13T23:02:09+07:00</lastmod>
+<image:image>
+<image:loc>https://wahidemalution.github.io/media/posts/1/Cloudflare.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://wahidemalution.github.io/media/posts/1/Page-rules.png</image:loc>
+<image:title><![CDATA[Force https cloudflare]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://wahidemalution.github.io/media/posts/1/create-rule-cloudflare.png</image:loc>
+<image:title><![CDATA[membuat rule cloudflare]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://wahidemalution.github.io/media/posts/1/create-rule-cloudflare2png</image:loc>
+<image:title><![CDATA[membuat rule cloudflare]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://wahidemalution.github.io/media/posts/1/done-create-rule.png</image:loc>
+<image:title><![CDATA[selesai membuat rule cloudflare]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://wahidemalution.github.io/daftar-isi/</loc>
+<lastmod>2019-07-14T20:04:33+07:00</lastmod>
+</url>
+<url>
+<loc>https://wahidemalution.github.io/install-plesk-panel-di-centos-7-dalam-sekali-enter/</loc>
+<lastmod>2019-07-13T23:25:33+07:00</lastmod>
+<image:image>
+<image:loc>https://wahidemalution.github.io/media/posts/4/install-Plesk.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://wahidemalution.github.io/media/posts/4/install-plesk-centos.png</image:loc>
+<image:title><![CDATA[Install plesk centos 7]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://wahidemalution.github.io/mengambil-file-website-pada-full-backup-cpanel/</loc>
+<lastmod>2019-07-13T21:41:32+07:00</lastmod>
+<image:image>
+<image:loc>https://wahidemalution.github.io/media/posts/3/Backup.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://wahidemalution.github.io/mengatasi-blogger-unexpectedly-closed-the-connection/</loc>
+<lastmod>2019-07-13T23:05:41+07:00</lastmod>
+<image:image>
+<image:loc>https://wahidemalution.github.io/media/posts/2/Blogger.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://wahidemalution.github.io/media/posts/2/proses-https-blog.png</image:loc>
+<image:title><![CDATA[unexpectedly colosed the connection blogspot]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://wahidemalution.github.io/media/posts/2/error-blogspot.png</image:loc>
+<image:title><![CDATA[Mengatasi blogger &quot;unexpectedly closed the connection&quot;]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://wahidemalution.github.io/media/posts/2/error-blogspot-2.png</image:loc>
+<image:title><![CDATA[Mengatasi blogger &quot;unexpectedly closed the connection&quot;]]></image:title>
+</image:image>
+</url>
+</urlset>
